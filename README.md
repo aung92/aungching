@@ -32,4 +32,4 @@ I'm a passionate **MERN Stack Learner** on a journey to build full-stack web app
 
 ---
 
-⭐️ From [Aungching Prue](https://github.com/aungchingprue)
+⭐️ From [Aung Ching Prue](https://github.com/aung92)
